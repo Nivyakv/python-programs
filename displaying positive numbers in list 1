@@ -1,4 +1,4 @@
-#displaying positve integers in list 1
+#displaying positve numbers in list 1
 mylist=[12, -7, 5, 64, -14]
 for i in mylist:
     if i>0:
