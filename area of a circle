@@ -1,0 +1,4 @@
+#Area of a circle with radius 1.1
+radius=1.1
+area=3.14*radius*radius
+print("Area of the circle is",area)
